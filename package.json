@@ -1,0 +1,19 @@
+{
+  "name": "disbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^13.1.0",
+    "node.js": "0.0.1-security",
+    "pg": "^8.6.0",
+    "shell-quote": "^1.7.2",
+    "sqlite3": "^5.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
